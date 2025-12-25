@@ -1,0 +1,7 @@
+{
+  "name": "LeanFlow Architect",
+  "description": "A comprehensive platform for industrial engineers to map, analyze, and optimize organizational processes using Lean, Scrum, and Kanban methodologies with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
